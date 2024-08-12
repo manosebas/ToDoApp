@@ -1,0 +1,81 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+
+# Android related
+*.iml
+.gradle/
+/local.properties
+.idea/workspace.xml
+.idea/libraries
+.idea/modules.xml
+.idea/.name
+.idea/vcs.xml
+.idea/caches
+.idea/modules
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/httpRequests
+.idea/shelf.xml
+.idea/inspectionProfiles
+.idea/gradle.xml
+.idea/misc.xml
+.idea/tasks.xml
+.idea/coverage
+.idea/libraries/
+.idea/scopes
+.idea/runConfigurations.xml
+.idea/misc.xml
+.idea/codeStyles
+.idea/projectView.xml
+.idea/codeStyleSettings.xml
+.idea/codestyles
+.idea/scopes
+.idea/todo.xml
+*.apk
+*.ap_
+/captures/
+/build/
+.externalNativeBuild/
+cmake-build-debug/
